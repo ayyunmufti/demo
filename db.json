@@ -1,6 +1,6 @@
 {
- user:{
- id:1,
-   name:'ali'
+ "user":{
+   "id":1,
+   "name":"ali"
  }
 }
